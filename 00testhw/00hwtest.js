@@ -1,2 +1,2 @@
-console.log("Test1 gomework");
+console.log("Test gomework");
 
